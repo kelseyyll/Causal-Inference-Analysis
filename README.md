@@ -15,7 +15,7 @@ The project simulates time series data, representing weekly sales of a chain gro
 - **Visualization**: The project includes visualizations to explore time series trends, seasonality, and correlation.
 
 ## Usage
-Run the provided `.py` script to simulate the data, perform the analysis, and visualize the results. Ensure you have the necessary Python packages installed, including pandas, numpy, matplotlib, seaborn, and CausalImpact.
+Run the provided `.py` script to simulate the data, perform the analysis, and visualize the results. The Python packages used include pandas, numpy, matplotlib, seaborn, and CausalImpact.
 
 ## Author
 - Kelsey Lin
